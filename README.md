@@ -2,11 +2,9 @@
 # March 29, 2023
 # Matt Lynes
 
-# This is the set of scripts for ThermalCam system for non-invasively monitoring temperature in mice undergoing stress 
-# at millisecond resolution.  I probably should have a good acronym for it, but I don't.
+# This is the set of scripts for ThermalCam system for non-invasively monitoring temperature in mice undergoing stress at millisecond resolution.  I probably should have a good acronym for it, but I don't.
 
-# Follow the instructions in reference 1 to hook up a MLX90640 Thermal Camera to a Raspberry Pi 4 2gb using a Stemma QT JST SH 4-pin Cable 
-# with female sockets all purchased from Adafruit. 
+# Follow the instructions in reference 1 to hook up a MLX90640 Thermal Camera to a Raspberry Pi 4 2gb using a Stemma QT JST SH 4-pin Cable with female sockets all purchased from Adafruit. 
 
 # Use the ThermalCam (with array saving).py script to record .csv files to the desktop.
 
